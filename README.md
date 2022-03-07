@@ -19,9 +19,9 @@ I like to take projets from end to end, from the identification of the problem t
 * [Medium](https://medium.com/@viniciusbbaumgratz)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Abaixo estão listados os projetos públicos que realizei:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb - Nápoles:** https://bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
 
 ---
 
