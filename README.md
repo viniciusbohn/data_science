@@ -16,7 +16,6 @@ I like to take projets from end to end, from the identification of the problem t
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/viniciusbohnbaumgratz/)
-* [Medium](https://medium.com/@viniciusbbaumgratz)
 
 ## Projetos:
 Abaixo estão listados os projetos públicos que realizei:
