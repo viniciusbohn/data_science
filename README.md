@@ -22,6 +22,8 @@ Abaixo estão listados os projetos públicos que realizei:
 
 * **Analisando os Dados do Airbnb - Nápoles:** https://bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
   * ARTIGO REFERENTE AO PROJETO: https://bit.ly/36aD24U
+* **Panorama Global da COVID-19:** https://bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
+  * ARTIGO REFERENTE AO PROJETO: 
 
 ---
 
