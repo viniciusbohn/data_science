@@ -20,10 +20,13 @@ I like to take projets from end to end, from the identification of the problem t
 ## Projetos:
 Abaixo estão listados os projetos públicos que realizei:
 
-* **Analisando os Dados do Airbnb - Nápoles:** https://bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
-  * Artigo referente ao projeto: https://bit.ly/36aD24U
+* **Machine Learning para Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/vbbptbr-deteccaofraudecartoescredito
+  * Artigo referente ao projeto: 
 * **Panorama Global da COVID-19:** https://bit.ly/vbbptbr-panoramaglobalcovid2022
   * Artigo referente ao projeto: https://bit.ly/3OeqYS2
+* **Analisando os Dados do Airbnb - Nápoles:** https://bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
+  * Artigo referente ao projeto: https://bit.ly/36aD24U
+
 
 ---
 
