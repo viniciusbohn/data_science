@@ -20,14 +20,14 @@ I like to take projets from end to end, from the identification of the problem t
 ## Projetos:
 Abaixo estão listados os projetos públicos que realizei:
 
-* **Churn Prediction para uma empresa de Telecomunicações :** bit.ly/vbbptbr-churnpredictiontelecom
+* **Churn Prediction para uma empresa de Telecomunicações :** https://bit.ly/vbbptbr-churnpredictiontelecom
   * Artigo referente ao projeto: 
-* **Machine Learning na Detecção de Fraudes em Cartões de Crédito :** bit.ly/vbbptbr-deteccaofraudecartoescredito
-  * Artigo referente ao projeto: bit.ly/3OjF5VN
-* **Panorama Global da COVID-19:** bit.ly/vbbptbr-panoramaglobalcovid2022
-  * Artigo referente ao projeto: bit.ly/3OeqYS2
-* **Analisando os Dados do Airbnb - Nápoles:** bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
-  * Artigo referente ao projeto: bit.ly/36aD24U
+* **Machine Learning na Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/vbbptbr-deteccaofraudecartoescredito
+  * Artigo referente ao projeto: https://bit.ly/3OjF5VN
+* **Panorama Global da COVID-19:** https://bit.ly/vbbptbr-panoramaglobalcovid2022
+  * Artigo referente ao projeto: https://bit.ly/3OeqYS2
+* **Analisando os Dados do Airbnb - Nápoles:** https://bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
+  * Artigo referente ao projeto: https://bit.ly/36aD24U
 
 
 ---
