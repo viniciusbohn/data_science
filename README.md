@@ -21,7 +21,7 @@ I like to take projets from end to end, from the identification of the problem t
 Abaixo estão listados os projetos públicos que realizei:
 
 * **Churn Prediction para uma empresa de Telecomunicações :** https://bit.ly/vbbptbr-churnpredictiontelecom
-  * Artigo referente ao projeto: 
+  * Artigo referente ao projeto: https://bit.ly/3HTCsHz
 * **Machine Learning na Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/vbbptbr-deteccaofraudecartoescredito
   * Artigo referente ao projeto: https://bit.ly/3OjF5VN
 * **Panorama Global da COVID-19:** https://bit.ly/vbbptbr-panoramaglobalcovid2022
