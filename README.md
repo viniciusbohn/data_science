@@ -22,7 +22,7 @@ Abaixo estão listados os projetos públicos que realizei:
 
 * **Churn Prediction para uma empresa de Telecomunicações :** https://bit.ly/vbbptbr-churnpredictiontelecom
   * Artigo referente ao projeto: https://bit.ly/3HTCsHz
-* **Machine Learning na Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/vbbptbr-deteccaofraudecartoescredito
+* **Machine Learning na Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/vbbptbr-deteccaofraudecartoes
   * Artigo referente ao projeto: https://bit.ly/3OjF5VN
 * **Panorama Global da COVID-19 em 2022:** https://bit.ly/vbbptbr-panoramaglobalcovid2022
   * Artigo referente ao projeto: https://bit.ly/3OeqYS2
