@@ -24,7 +24,7 @@ Abaixo estão listados os projetos públicos que realizei:
   * Artigo referente ao projeto: https://bit.ly/3HTCsHz
 * **Machine Learning na Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/vbbptbr-deteccaofraudecartoescredito
   * Artigo referente ao projeto: https://bit.ly/3OjF5VN
-* **Panorama Global da COVID-19:** https://bit.ly/vbbptbr-panoramaglobalcovid2022
+* **Panorama Global da COVID-19 em 2022:** https://bit.ly/vbbptbr-panoramaglobalcovid2022
   * Artigo referente ao projeto: https://bit.ly/3OeqYS2
 * **Analisando os Dados do Airbnb - Nápoles:** https://bit.ly/vbbptbr-analisandodadosdoairbnbnapoles
   * Artigo referente ao projeto: https://bit.ly/36aD24U
